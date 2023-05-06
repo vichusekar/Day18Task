@@ -1,0 +1,23 @@
+.cards{
+    color: white;
+    background-color: rgb(192, 182, 182);
+}
+
+.card-title{
+    background-color: rgb(59, 52, 52);
+    
+    
+}
+
+.card-img-top{
+    size: 20px;
+
+}
+
+.card-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
